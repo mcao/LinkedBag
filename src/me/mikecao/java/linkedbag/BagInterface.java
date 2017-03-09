@@ -1,4 +1,5 @@
 package me.mikecao.java.linkedbag;
+
 public interface BagInterface {
 	public int getCurrentSize();
 	public boolean isEmpty();
